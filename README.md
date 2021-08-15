@@ -1,2 +1,2 @@
 # WhiteBoard
-Deployed at heroku : https://my-realtime-whiteboard.herokuapp.com/
+Deployed at heroku : https://myrealtime-whiteboard.herokuapp.com/
