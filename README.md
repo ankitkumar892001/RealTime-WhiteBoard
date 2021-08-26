@@ -1,5 +1,4 @@
-# RealTime-WhiteBoard
-Deployed at heroku : https://myrealtime-whiteboard.herokuapp.com/
+# Deployed at heroku : https://myrealtime-whiteboard.herokuapp.com/
 
 Used Socket.io and Node events to reflect back realtime changes to multiple users.
 
